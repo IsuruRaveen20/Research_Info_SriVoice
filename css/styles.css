@@ -14,10 +14,15 @@
 }
 
 .center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+    /* margin: auto; */
+    /* width: 50%; */
+    /* border: 3px solid green; */
+    /* padding: 10px; */
+}
+
+.cbp{
+    height: 500px;
+    /* width: 500px; */
 }
 
 .card {
@@ -353,4 +358,9 @@ body {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
     overflow: hidden;
+}
+
+.logo-dark{
+    height: 80px;
+    width: 80px;
 }
