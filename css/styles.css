@@ -15,7 +15,6 @@
 
 .cbp{
     height: 500px;
-    /* width: 500px; */
 }
 
 .card {
@@ -50,23 +49,17 @@
 }
 
 .card-1 {
-    /* background-image: url(./images/3d1.png);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: 80px; */
     text-align: center;
     height: 350px;
 }
 
 .card-2 {
-    /* background-image: url(https://ionicframework.com/img/getting-started/components-card.png); */
     background-repeat: no-repeat;
     background-position: right;
     background-size: 80px;
 }
 
 .card-3 {
-    /* background-image: url(https://ionicframework.com/img/getting-started/theming-card.png); */
     background-repeat: no-repeat;
     background-position: right;
     background-size: 80px;
